@@ -59,4 +59,4 @@ We used boosting technique whereas begging can be used as well. Later we can fol
 
 
 # Missing information, what do we need to get more from the company?
-Socio economic and demorgraphic data like gender,seniority of the clients, partner/friend is in the company, tenure etc
+More featue like Socio economic and demorgraphic data like gender,seniority of the clients, partner/friend is in the company, tenure etc

@@ -54,7 +54,7 @@ SVC.
 We used boosting technique whereas begging can be used as well. Later we can follow-  
 1. Model Evaluation
 2. Model Improvement
-3.Future Predictions
+3. Future Predictions
 4. Model Deployment
 
 

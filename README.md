@@ -52,10 +52,10 @@ Naive Bayes.
 SVC.
 
 We used boosting technique whereas begging can be used as well. Later we can follow-  
-1. Model Evaluation
-2. Model Improvement
-3. Future Predictions
-4. Model Deployment
+1. Model Evaluation - Through train & evaluate Chosen Model, AUC/ROC curve ETC
+2. Model Improvement - Hyperparameter tunning, changing gradient decent, usinng different parameters, changing activation functions if required.
+3. Future Predictions - Compare predictions against the test set
+4. Model Deployment - Save/dump the model for future use case.
 
 
 # Missing information, what do we need to get more from the company?

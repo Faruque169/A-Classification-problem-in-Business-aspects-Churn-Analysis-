@@ -29,7 +29,7 @@ The above 7 features maybe individually present in some algorithms, but XGBoost 
 ## Reason for choosing
 1. Speed
 2. Awareness of sparse data
-3. mplementation on single, distributed systems and out-of-core computation
+3. Implementation on single, distributed systems and out-of-core computation
 4. Parallelization
 
 ## Findings

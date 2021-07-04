@@ -4,7 +4,7 @@ Here I have tried to illustrate the insight of the data using data curing, data 
 
 ## Prediction algorithm overview -
 XGboost:
-  XGboost is an ensemble method for fast outcome and it is a sequetial learning algorithom that supports auto tunning for hyperparameter.
+XGboost is an ensemble method for fast outcome and it is a sequetial learning algorithom that supports auto tunning for hyperparameter.
 This algorithom also attempt to solve some of the key business challenges pertaining to customer attrition like, 
 (1) what is the likelihood of an active customer leaving an organization? 
 (2) what are key indicators of a customer churn? 
